@@ -1,0 +1,81 @@
+{
+  "menus": [
+    {
+        "title": "Items",
+        "url": "",
+        "permission": "access.roles",
+        "icon": "fa fa-list",
+        "allow_site":"all",
+		"items": [
+        {
+          "title": "List",
+          "url": "\/admin\/items",
+          "permission": "access.users",
+          "icon": "fa fa-list",
+          "allow_site":"all"
+        },
+        {
+          "title": "Create",
+          "url": "\/admin\/items\/create",
+          "permission": "",
+          "icon": "fa fa-plus",
+          "allow_site":"all"
+        }
+		
+      ]
+    },
+	{
+      "title": "Users",
+      "url": "",
+      "permission": "access.users",
+      "icon": "fa fa-user",
+      "allow_site":"all",
+      "items": [
+        {
+          "title": "Users",
+          "url": "\/admin\/users",
+          "permission": "access.users",
+          "icon": "fa fa-users",
+          "allow_site":"all"
+        },
+        {
+          "title": "Roles",
+          "url": "\/admin\/roles",
+          "permission": "access.roles",
+          "icon": "fa fa-cubes",
+          "allow_site":"all"
+        }
+		
+      ]
+    },
+	{
+        "title": "Categories",
+        "url": "",
+        "permission": "access.roles",
+        "icon": "fa fa-list",
+        "allow_site":"all",
+		"items": [
+        {
+          "title": "List",
+          "url": "\/admin\/categories",
+          "permission": "access.users",
+          "icon": "fa fa-list",
+          "allow_site":"all"
+        },
+        {
+          "title": "Create",
+          "url": "\/admin\/categories\/create",
+          "permission": "",
+          "icon": "fa fa-plus",
+          "allow_site":"all"
+        }
+		
+      ]
+		
+    }
+	
+   
+    
+
+  ]
+}
