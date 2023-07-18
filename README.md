@@ -1,6 +1,7 @@
 ## LARAVEL | CATEGORY-PRODUCT | IMAGE CROPPER & EDITOR
 LARAVEL | ADMIN | USERS | CATEGORY - CHILD CATEGORY | PRODUCT CRUD | MODAL RELATIONS | IMAGER CROPPER, EDITOR AND IMAGE LINK WITH ITS DETAIL | DATATBLE | AJAX
 
+ - Url: http://jcwebdeveloper.com/Jignesh-demo/Laravel-Category-Product-With-Image-Croper-And-Editor/public/
  - Layout and templating
  - Laravel Auth functions
  - Users and Role module with crud
@@ -25,4 +26,4 @@ LARAVEL | ADMIN | USERS | CATEGORY - CHILD CATEGORY | PRODUCT CRUD | MODAL RELAT
 
 ## Overview 
 
- - Url: http://jcwebdeveloper.com/Jignesh-demo/Laravel-Admin-Demo/public/
+ - Url: http://jcwebdeveloper.com/Jignesh-demo/Laravel-Category-Product-With-Image-Croper-And-Editor/public/
